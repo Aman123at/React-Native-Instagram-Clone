@@ -1,3 +1,6 @@
+# Demo
+<img src="images/Demo.gif" alt="drawing" width="300"/>
+
 # Screens
 
 ### Home Page
